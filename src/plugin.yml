@@ -1,0 +1,10 @@
+name: Sup.jar
+version: 0.0.1
+author: king601
+
+main: com.bitlimit.Sup.Sup
+
+commands:
+  sup:
+    description: Soon.
+    usage: /<command> [player]
